@@ -1,0 +1,17 @@
+For 2 workers --> 2 iterations because Ray crushes elsewise
+
+Total Time: 1112.2491183280945
+Total Workers: 3
+   Worker 1:
+      CPU Cores: 4
+   Worker 2:
+      CPU Cores: 4
+   Worker 3:
+      CPU Cores: 4
+
+Total Time: 557.9749870300293
+Total Workers: 2
+   Worker 1:
+      CPU Cores: 4
+   Worker 2:
+      CPU Cores: 4

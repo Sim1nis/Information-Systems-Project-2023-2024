@@ -1,0 +1,27 @@
+Accuracy on test data = 0.51133
+Total Time: 480.894855260849
+Total Workers: 3
+   Worker 1:
+      CPU Cores: 4
+   Worker 2:
+      CPU Cores: 4
+   Worker 3:
+      CPU Cores: 4
+
+Accuracy on test data = 0.65885
+Total Time: 636.6605978012085
+Total Workers: 3
+   Worker 1:
+      CPU Cores: 2
+   Worker 2:
+      CPU Cores: 2
+   Worker 3:
+      CPU Cores: 2
+
+Accuracy on test data = 0.571969
+Total Time: 383.70047426223755
+Total Workers: 2
+   Worker 1:
+      CPU Cores: 4
+   Worker 2:
+      CPU Cores: 4

@@ -1,0 +1,26 @@
+Total Time: 736.7145211696625
+Total Workers: 3
+   Worker 1:
+      CPU Cores: 4
+   Worker 2:
+      CPU Cores: 4
+   Worker 3:
+      CPU Cores: 4
+
+Total Time: 755.6139142513275
+Total Workers: 3
+   Worker 1:
+      CPU Cores: 2
+   Worker 2:
+      CPU Cores: 2
+   Worker 3:
+      CPU Cores: 2
+
+2 VMs 3 ACTORS --> CRASHED
+2 VMs 2 ACTORS:
+Total Time: 1037.171308517456
+Total Workers: 2
+   Worker 1:
+      CPU Cores: 6
+   Worker 2:
+      CPU Cores: 6

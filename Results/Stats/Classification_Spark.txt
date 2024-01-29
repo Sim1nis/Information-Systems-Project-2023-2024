@@ -1,0 +1,32 @@
+Accuracy on test data = 0.889725                                                
+Total Time: 381.76093077659607
+Training Time: 340.175555229187
+Total Workers: 3
+   Worker 1:
+      CPU Cores: 4
+   Worker 2:
+      CPU Cores: 4
+   Worker 3:
+      CPU Cores: 4
+
+Accuracy on test data = 0.889439
+Total Time: 410.6212787628174
+Training Time: 378.71323919296265
+Total Workers: 3
+   Worker 1:
+      CPU Cores: 2
+   Worker 2:
+      CPU Cores: 2
+   Worker 3:
+      CPU Cores: 2
+
+Accuracy on test data = 0.8893325
+Total Time: 473.35418009757996
+Training Time: 435.00986337661743
+Total Workers: 2
+   Worker 1:
+      Memory: 8G
+      CPU Cores: 4
+   Worker 2:
+      Memory: 8G
+      CPU Cores: 4

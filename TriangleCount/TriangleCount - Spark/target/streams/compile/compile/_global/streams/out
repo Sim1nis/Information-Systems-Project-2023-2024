@@ -1,7 +1,0 @@
-[0m[[0m[31merror[0m] [0m[0m/home/ubuntu/Information-System2023-2024/TriangleCount/TriangleCount - Spark/src/main/scala/TriangleCount.scala:26:9: edges is already defined as variable edges[0m
-[0m[[0m[31merror[0m] [0m[0m    var edges = edges.select(split(col("value")," ").getItem(0).as("src"),[0m
-[0m[[0m[31merror[0m] [0m[0m        ^[0m
-[0m[[0m[31merror[0m] [0m[0m/home/ubuntu/Information-System2023-2024/TriangleCount/TriangleCount - Spark/src/main/scala/TriangleCount.scala:26:17: recursive variable edges needs type[0m
-[0m[[0m[31merror[0m] [0m[0m    var edges = edges.select(split(col("value")," ").getItem(0).as("src"),[0m
-[0m[[0m[31merror[0m] [0m[0m                ^[0m
-[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

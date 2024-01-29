@@ -1,0 +1,17 @@
+2 Workers --> 2 Iterations
+
+Total Time: 76.33406662940979
+Total Workers: 3
+   Worker 1:
+      CPU Cores: 4
+   Worker 2:
+      CPU Cores: 4
+   Worker 3:
+      CPU Cores: 4
+
+Total Time: 90.61787819862366
+Total Workers: 2
+   Worker 1:
+      CPU Cores: 4
+   Worker 2:
+      CPU Cores: 4

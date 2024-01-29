@@ -1,4 +1,0 @@
-[0m[[0m[31merror[0m] [0m[0m/home/ubuntu/Information-System2023-2024/Pagerank/Pagerank - Spark/PageRank - Spark/src/main/scala/PageRank.scala:20:9: before is already defined as value before[0m
-[0m[[0m[31merror[0m] [0m[0m    val before = System.currentTimeMillis;[0m
-[0m[[0m[31merror[0m] [0m[0m        ^[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
