@@ -1,8 +1,5 @@
 import random
 
-# vertices = 50 thousand (20000000)
-# edges = 700 million (300000000)
-
 vertices_num = 100000
 edges_num = 5000000
 
