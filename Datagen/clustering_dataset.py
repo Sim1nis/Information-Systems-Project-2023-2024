@@ -5,7 +5,6 @@ import os
 
 from fastparquet import write
 
-# Let's create approx 11 Gb of data
 target = 11*1024**10*20
 
 # We need data to fit into ram each time so we'll split it into chunks
