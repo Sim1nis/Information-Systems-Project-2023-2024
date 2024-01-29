@@ -1,8 +1,8 @@
-# ray-mapreduce-kmeans
+# ray-mapreduce-kmeans ! Slightly Modified version to work for our experiment
 ![ray-mapreduce](https://miro.medium.com/max/1400/1*2omU7XHeJUWgZ3kleRJ-OA.png)
 
 
-## ! Slightly Modified version to work for our experiment
+
 
 ## Full document
 > [Medium](https://medium.com/navepnow/ray-supported-high-performance-distributed-clustering-algorithm-46389d422802)
