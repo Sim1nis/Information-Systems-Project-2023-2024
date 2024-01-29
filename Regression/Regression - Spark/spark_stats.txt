@@ -1,0 +1,28 @@
+Root Mean Squared Error (RMSE) on test data = 33.182302989089905
+Total Time: 2395.718846321106
+Training Time: 2342.951958656311
+Total Workers: 3
+   Worker 1:
+      Memory: 8G
+      CPU Cores: 4
+   Worker 2:
+      Memory: 8G
+      CPU Cores: 4
+   Worker 3:
+      Memory: 8G
+      CPU Cores: 4
+
+Root Mean Squared Error (RMSE) on test data = 154.63740482141313
+Total Time: 531.3729436397552
+Training Time: 489.40787529945374
+Total Workers: 3
+   Worker 1:
+      Memory: 8G
+      CPU Cores: 4
+   Worker 2:
+      Memory: 8G
+      CPU Cores: 4
+   Worker 3:
+      Memory: 8G
+      CPU Cores: 4
+

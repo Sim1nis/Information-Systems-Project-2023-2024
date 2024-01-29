@@ -1,0 +1,30 @@
+Total Time: 76.33406662940979
+Total Workers: 3
+   Worker 1:
+      Memory: 8G
+      CPU Cores: 4
+   Worker 2:
+      Memory: 8G
+      CPU Cores: 4
+   Worker 3:
+      Memory: 8G
+      CPU Cores: 4
+
+Total Time: 95.57090210914612
+Total Workers: 2
+   Worker 1:
+      Memory: 8G
+      CPU Cores: 4
+   Worker 2:
+      Memory: 8G
+      CPU Cores: 4
+
+Total Time: 90.61787819862366
+Total Workers: 2
+   Worker 1:
+      Memory: 8G
+      CPU Cores: 4
+   Worker 2:
+      Memory: 8G
+      CPU Cores: 4
+

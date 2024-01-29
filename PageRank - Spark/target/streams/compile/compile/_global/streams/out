@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/ubuntu/Information-System2023-2024/PageRank - Spark/src/main/scala/PageRank.scala:36:17: identifier expected but '.' found.[0m
+[0m[[0m[31merror[0m] [0m[0m    resDF.write..mode(SaveMode.Append).csv("./results.csv")[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

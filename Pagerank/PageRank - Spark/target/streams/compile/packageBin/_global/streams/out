@@ -1,0 +1,7 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/ubuntu/Information-System2023-2024/Pagerank/Pagerank - Spark/PageRank - Spark/target/scala-2.12/pagerank-with-spark_2.12-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/Information-System2023-2024/Pagerank/Pagerank - Spark/PageRank - Spark/target/scala-2.12/classes/PageRank.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/Information-System2023-2024/Pagerank/Pagerank - Spark/PageRank - Spark/target/scala-2.12/classes/PageRank$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
