@@ -6,12 +6,11 @@ from sklearn.datasets import make_classification
 
 from fastparquet import write
 
-# Let's create approx 8 Gb of data
 target_train = 20
 target_test = 5
 
 # We need data to fit into ram each time so we'll split it into chunks
-chunk_size = 4*10**5 # size of each chunk, about 250 Mb
+chunk_size = 4*10**5
 
 # we consider 60 features per sample, with informative being 20 of them
 num_feats = 60
