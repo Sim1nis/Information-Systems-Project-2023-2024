@@ -1,6 +1,9 @@
 # ray-mapreduce-kmeans
 ![ray-mapreduce](https://miro.medium.com/max/1400/1*2omU7XHeJUWgZ3kleRJ-OA.png)
 
+
+## ! Slightly Modified version to work for our experiment
+
 ## Full document
 > [Medium](https://medium.com/navepnow/ray-supported-high-performance-distributed-clustering-algorithm-46389d422802)
 
@@ -12,18 +15,7 @@
     pip install -r requirements.txt
 
 ## Usage
-    python3 main.py -d working-dir -f input-file -s number-of-sample -k number-of-clusters -n number-of-iteration -m number-of-mappers -t number-of-tasks
-
-* `working-dir`: working directory(also directory of check-in dataset)
-* `input-file`: file name of dataset
-* `number-of-sample`: number of samples you want to cluster
-* `number-of-clusters`: number of clusters
-* `number-of-iteration`: max iteration for clustering
-* `number-of-mappers`: mappers in MapReduce
-* `number-of-tasks`: tasks in MapReduce
-
-## Run tests
-    python3 main.py -d /Users/evan-mac/checkin -f loc-gowalla_totalCheckins.txt -s 50000 -k 20 -n 10 -m 5 -t 2
+  ```cd clustering_main; python3 main_ray.py {num_nodes} [list of (memory_in_GB,number_of_cores) for each node]``` 
 
 ## Author
 
