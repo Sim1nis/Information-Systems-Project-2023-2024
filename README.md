@@ -9,7 +9,7 @@ Team number: 24
 Member Names:
 
 * Kokkinis Dimitrios - 03118896
-* Siminis Ignatios -
+* Siminis Ignatios - 03119821
 * Spyridon Michail Evangelou - 03118026
   
 ### Repository Structure
