@@ -1,15 +1,8 @@
 import os
-
 import numpy as np
-
 import pandas as pd
 
-
-
 from sklearn.datasets import make_regression
-
-
-
 from fastparquet import write
 
 target_train = 5*1024*1024*1024 # Change this value to change the size of the training dataset
